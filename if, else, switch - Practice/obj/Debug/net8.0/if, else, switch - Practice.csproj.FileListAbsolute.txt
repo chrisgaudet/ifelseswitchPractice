@@ -1,0 +1,15 @@
+C:\Users\user\repos\if, else, switch - Practice\if, else, switch - Practice\bin\Debug\net8.0\if, else, switch - Practice.exe
+C:\Users\user\repos\if, else, switch - Practice\if, else, switch - Practice\bin\Debug\net8.0\if, else, switch - Practice.deps.json
+C:\Users\user\repos\if, else, switch - Practice\if, else, switch - Practice\bin\Debug\net8.0\if, else, switch - Practice.runtimeconfig.json
+C:\Users\user\repos\if, else, switch - Practice\if, else, switch - Practice\bin\Debug\net8.0\if, else, switch - Practice.dll
+C:\Users\user\repos\if, else, switch - Practice\if, else, switch - Practice\bin\Debug\net8.0\if, else, switch - Practice.pdb
+C:\Users\user\repos\if, else, switch - Practice\if, else, switch - Practice\obj\Debug\net8.0\if, else, switch - Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\repos\if, else, switch - Practice\if, else, switch - Practice\obj\Debug\net8.0\if, else, switch - Practice.AssemblyInfoInputs.cache
+C:\Users\user\repos\if, else, switch - Practice\if, else, switch - Practice\obj\Debug\net8.0\if, else, switch - Practice.AssemblyInfo.cs
+C:\Users\user\repos\if, else, switch - Practice\if, else, switch - Practice\obj\Debug\net8.0\if, else, switch - Practice.csproj.CoreCompileInputs.cache
+C:\Users\user\repos\if, else, switch - Practice\if, else, switch - Practice\obj\Debug\net8.0\if, else, switch - Practice.sourcelink.json
+C:\Users\user\repos\if, else, switch - Practice\if, else, switch - Practice\obj\Debug\net8.0\if, else, switch - Practice.dll
+C:\Users\user\repos\if, else, switch - Practice\if, else, switch - Practice\obj\Debug\net8.0\refint\if, else, switch - Practice.dll
+C:\Users\user\repos\if, else, switch - Practice\if, else, switch - Practice\obj\Debug\net8.0\if, else, switch - Practice.pdb
+C:\Users\user\repos\if, else, switch - Practice\if, else, switch - Practice\obj\Debug\net8.0\if, else, switch - Practice.genruntimeconfig.cache
+C:\Users\user\repos\if, else, switch - Practice\if, else, switch - Practice\obj\Debug\net8.0\ref\if, else, switch - Practice.dll
